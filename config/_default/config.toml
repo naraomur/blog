@@ -1,4 +1,4 @@
-baseURL = "https://naraomur.github.io/blog/"
+baseURL = "https://naraomur.github.io/"
 languageCode = "en-us"
 title = "Nara"
 theme = "anatole"
