@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>container on Nara</title>
+    <link>https://naraomur.github.io/tags/container/</link>
+    <description>Recent content in container on Nara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 12:33:07 +0600</lastBuildDate><atom:link href="https://naraomur.github.io/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://naraomur.github.io/portfolio/</link>
+      <pubDate>Fri, 24 Mar 2023 12:33:07 +0600</pubDate>
+      
+      <guid>https://naraomur.github.io/portfolio/</guid>
+      
+        <description>OpenSource Contributions 🌐🖥️ Azure Containerd diskfs: Fix for creating partitions on disk Docker: Fixes related to accessing devices in privileged mode Google Container Tools, Google: Added support for new method in golang github API Kubernetes Kubesphere Moby OpenEBS: Maintainer of OpenEBS disk management plane and local storage options Seagate: Bug fix for NVMe device and memory corruption ⚠️ Sign in to github to view complete list of contributions.
+Activities (or Talks in the future) 👨🎤 2023 Woman&amp;rsquo;s mind @ STEP Conference Tech Exhibition Personal Projects 👨 2023 Auth App ▶️ : Authorization with Spring Security.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

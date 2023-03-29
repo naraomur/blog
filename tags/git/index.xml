@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Nara</title>
+    <link>https://naraomur.github.io/tags/git/</link>
+    <description>Recent content in git on Nara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Mar 2023 12:18:16 +0600</lastBuildDate><atom:link href="https://naraomur.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rewriting your Git commit history</title>
+      <link>https://naraomur.github.io/posts/git/</link>
+      <pubDate>Fri, 24 Mar 2023 12:18:16 +0600</pubDate>
+      
+      <guid>https://naraomur.github.io/posts/git/</guid>
+      
+        <description>Making history in a big commercial project where the commiting must be on a top notch accuracy and cleanliness without confusions in the history of a work flow. Being a newbie I had no idea the first time I&amp;rsquo;d pushed the very first changes in a very first task that I supposed to check the git status before commiting and even staging. So when I&amp;rsquo;d sent a pull request to the assignee who happened to encounter the non related file to the task in my first commit.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
