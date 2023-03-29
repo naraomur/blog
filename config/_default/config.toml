@@ -1,6 +1,0 @@
-baseURL = "https://naraomur.github.io/blog/"
-languageCode = "en-us"
-title = "Nara"
-theme = "anatole"
-enableEmoji = true
-enableRobotsTXT = true
