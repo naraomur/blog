@@ -25,44 +25,25 @@ tags:
 ⚠️ Sign in to github to view complete list of contributions.
 
 
-#### Talks 👨🎤
-- 2022
-    - Container 101 @ SODA Forum [OpenSource India](https://www.opensourceindia.in/agenda-2022/)
-- 2021
-    - Container Attached Storage 101 @ [CNCF Bangalore Meetup](https://www.meetup.com/Bangalore-CNCF-Meetup/events/278675768/)
-    - Heterogeneous CSI Drivers @ [OpenSource India](https://www.opensourceindia.in/conference-agenda-2021/)
-- 2019 
-    - Kubernetes stateful workloads on legacy storage @ [DevConf India](https://devconfin19.sched.com/event/RVQZ/kubernetes-stateful-workloads-with-legacy)
-    - Contributing to open source @ Hacktoberfest Bangalore Meetup
-
+#### Activities (or Talks in the future) 👨🎤
+- 2023
+    - Woman's mind @ STEP Conference [Tech Exhibition](https://dubai.stepconference.com/)
 
 
 #### Personal Projects 👨 
 
+###### 2023
+- [Auth App ▶️](https://github.com/naraomur/auth) : Authorization with Spring Security. Spring Boot/Spring Security/JWT/Maven/JPA/Hibernate/PostgreSql/Postman
+
 ###### 2022
-- [Eywa 💳](https://github.com/akhilerm/eywa) : Service to generate UPI payment request for pending splitwise balance.
+- [Webapp with Login/Logout filter ▶️](https://github.com/naraomur/webapp) : Spring Boot JSF Crud project with RBAC(Role Based Access Control). Spring Boot/JSF(Primefaces)/Maven/JPA/Hibernate/OkHttp/GSON-JSON/PostgreSql/FilterServlet
 
-- [YouTube Music Alexa Skill ▶️ ](https://github.com/akhilerm/youtube-music-alexa-skill) : Alexa skill to play songs from Youtube music on Amazon Echo devices.
+- [Spring-JPA-CRUD ▶️](https://github.com/naraomur/spring-jpa-crud) : Basic CRUD template for Department and Employee management by using REST API. Spring Boot/Maven/JPA/Hibernate/OkHttp/GSON-JSON/PostgreSql/Postman
 
+- [Earthquake data visualization ▶️ ](https://github.com/naraomur/UCSD_UnfoldingMaps) : Real world earthquake data visualization using Unfolding Maps library and Processing GUI. Java Applet
 
 ###### 2021
-- [Tag-Push github action📦🐬](https://github.com/akhilerm/tag-push-action) : Github Action to retag and push multiplatform container images to multiple remote registries.
+- [Agata Bielen custom page📦🐬](https://github.com/naraomur/Catalog) : Catalogue for Agata Bielen Jewelry. CSS/SASS/GULP/JQuery/NPM
 
-
-###### 2018
-- [Dooth 📱](https://github.com/akhilerm/dooth) : A secret messenger for Amazon Alexa.
-
-- [Easy Dialer 📞🇦🇪](https://github.com/akhilerm/easyDialer) : A calling card automation app to be used in UAE.
-
-
-###### 2017
-- [Castle 🏰](https://github.com/akhilerm/Castle) : An open source implementation of the famous Google foobar challenge. Built out of inspiration from friends who couldn't secure an invitation to the challenge.
-
-- [Linux Hunt 🐧](https://github.com/tkm-ce/Linux-Hunt) : A treasure hunt inside Linux. Clues & Keys are hidden in system files and services, giving you a glimpse of how this monolith works.
-
-
-###### 2016
-- [Infiny](https://github.com/akhilerm/Infiny) : Ever thought of flooding your friend's WhatsApp with thousands of messages. This project automates WhatsApp Web, enabling users to search/send messages via the inbuilt console in browsers. 
-
-- [ZeroCut #](https://github.com/akhilerm/ZeroCut) : An unconvnetional implementation of Tic-Tac-Toe game. Instead of the regular 3x3 board you get a 9x9 with a funny set of rules.
-
+###### 2020
+- [Gallery 📱](https://github.com/naraomur/FGallery) : Responsive Fluid Sliding Gallery. HTML/CSS
